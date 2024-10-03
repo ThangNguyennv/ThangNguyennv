@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @ThangNguyennv
+- 👋 Hi, I’m @ThangNguyennv and my nickname is CodeCraf
 - 👀 I’m interested in coding
 - 🌱 I fell excited about web development
 - 💞️ I’m looking to collaborate on github-linkedin
